@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.gifer.com/OWUh.gif" alt="Software Developer Banner" width="100%" height="250px />
+  <img src="https://i.gifer.com/OWUh.gif" alt="Software Developer Banner" width="100%" height="250px"/>
 
   <h1>Hi there, I'm Karwan Yousif <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/></h1>
   
@@ -7,7 +7,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C9AF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Mobile+App+Development+Specialist;React+Native+Expert;UI%2FUX+Enthusiast" alt="Typing SVG" />
   </p>
 </div>
-
 
 
 ## 🚀 About Me
