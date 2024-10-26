@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" alt="Software Developer Banner" width="100%"/>
+  <img src="https://i.gifer.com/OWUh.gif" alt="Software Developer Banner" width="100%" height="250px />
 
   <h1>Hi there, I'm Karwan Yousif <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/></h1>
   
