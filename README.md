@@ -55,14 +55,11 @@ I'm a passionate Software Engineer specializing in Mobile App Development with a
 
 ## 🔗 Connect with me:
 <div align="left" style="background: #0D1117; margin: 100px; border-radius: 10px;">
-  <a href="https://twitter.com/KarwaN001" target="_blank" >
+  <a href="https://x.com/Karwan_001?s=35" target="_blank" >
     <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter"/>
   </a>
   <a href="https://linkedin.com/in/karwan-yousif-747071308" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/>
-  </a>
-  <a href="https://instagram.com/KarwaN001" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram"/>
   </a>
   <a href="mailto:karwanusf1@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail"/>
