@@ -75,10 +75,6 @@ I'm a passionate Software Engineer specializing in Mobile App Development with a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarwaN001&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KarwaN001&theme=tokyonight&no-frame=true&margin-w=4&bg_color=0D1117" alt="Trophies"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarwaN001&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
