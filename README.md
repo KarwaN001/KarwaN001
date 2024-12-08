@@ -36,7 +36,7 @@ I'm a passionate Software Engineer specializing in Mobile App Development with a
   <details open>
     <summary><b>Database & Cloud</b></summary>
     <br/>
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite,aws" height="40"/>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="40"/>
   </details>
 
   <details open>
