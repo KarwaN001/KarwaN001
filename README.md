@@ -48,7 +48,7 @@ I'm a passionate Software Engineer specializing in Mobile App Development with a
   <details open>
     <summary><b>Development Tools</b></summary>
     <br/>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" height="40"/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="40"/>
   </details>
 </div>
 
