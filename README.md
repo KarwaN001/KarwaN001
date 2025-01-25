@@ -72,7 +72,17 @@ I'm a passionate Software Engineer specializing in Mobile App Development with a
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarwaN001&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarwaN001&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KarwaN001&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" 
+    alt="Most Used Languages" 
+    style="border-radius: 10px; background: none; margin-top: 10px;" 
+  />
+
+
+
+
+
+
 </div>
 
 
