@@ -8,8 +8,7 @@
   </p>
 </div>
 
-
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> About Me
 <div align="left" style="background: #0D1117; padding: 20px; border-radius: 10px;">
 I'm a passionate Software Engineer specializing in Mobile App Development with a focus on React Native. I love creating innovative, user-friendly apps that solve real-world problems.
 
@@ -19,7 +18,7 @@ I'm a passionate Software Engineer specializing in Mobile App Development with a
 - ⚡ Fun fact: When I'm not coding, you can find me exploring new tech trends!
 </div>
 
-## 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Tech Stack
 <div align="left" style="background: #0D1117; padding: 20px; border-radius: 10px;">
   <details open>
     <summary><b>Mobile & Frontend Development</b></summary>
@@ -52,7 +51,7 @@ I'm a passionate Software Engineer specializing in Mobile App Development with a
   </details>
 </div>
 
-## 🔗 Connect with me:
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Connect with me:
 <div align="left" style="background: #0D1117; margin: 100px; border-radius: 10px;">
   <a href="https://x.com/Karwan_001?s=35" target="_blank" >
     <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter"/>
@@ -65,7 +64,7 @@ I'm a passionate Software Engineer specializing in Mobile App Development with a
   </a>
 </div>
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KarwaN001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
@@ -77,14 +76,7 @@ I'm a passionate Software Engineer specializing in Mobile App Development with a
     alt="Most Used Languages" 
     style="border-radius: 10px; background: none; margin-top: 10px;" 
   />
-
-
-
-
-
-
 </div>
-
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarwaN001&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
@@ -92,7 +84,8 @@ I'm a passionate Software Engineer specializing in Mobile App Development with a
 
 ---
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=KarwaN001&icon=5&color=6" alt="Visit Count"/>
+  <img src="https://komarev.com/ghpvc/?username=KarwaN001&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
+
