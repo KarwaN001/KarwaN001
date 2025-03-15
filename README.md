@@ -18,7 +18,7 @@ I'm a passionate Software Engineer specializing in Mobile App Development with a
 - ⚡ Fun fact: When I'm not coding, you can find me exploring new tech trends!
 </div>
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Tech Stack
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack
 <div align="left" style="background: #0D1117; padding: 20px; border-radius: 10px;">
   <details open>
     <summary><b>Mobile & Frontend Development</b></summary>
