@@ -23,7 +23,7 @@ I'm a passionate Software Engineer specializing in Mobile App Development with a
   <details open>
     <summary><b>Mobile & Frontend Development</b></summary>
     <br/>
-    <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter,js,ts" height="40"/>
+    <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter,js,ts,swift" height="40"/>
   </details>
 
   <details open>
