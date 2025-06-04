@@ -12,9 +12,8 @@
 <div align="left" style="background: #0D1117; padding: 20px; border-radius: 10px;">
 I'm a passionate Software Engineer specializing in Mobile App Development with a focus on React Native. I love creating innovative, user-friendly apps that solve real-world problems.
 
-- 🌱 Currently learning: **Advanced React Native features** and **Node.js**
-- 👯 Looking to collaborate on: **Open-source mobile development projects**
-- 💬 Ask me about: **React Native**, **Mobile Development**, **UI/UX Design**
+- 🌱 Currently learning: modern iOS development (**Swift** & **SwiftUI**)
+- 💬 Ask me about: **React Native**, **Mobile Development**, **clean UI patterns**
 - ⚡ Fun fact: When I'm not coding, you can find me exploring new tech trends!
 </div>
 
