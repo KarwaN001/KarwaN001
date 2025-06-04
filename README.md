@@ -20,11 +20,12 @@ I'm a passionate Software Engineer specializing in Mobile App Development with a
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack
 <div align="left" style="background: #0D1117; padding: 20px; border-radius: 10px;">
-  <details open>
-    <summary><b>Mobile & Frontend Development</b></summary>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter,js,ts,swift" height="40"/>
-  </details>
+<details open>
+  <summary><b>Mobile & Frontend Development</b></summary>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter,js,ts,swift" height="40"/>
+  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" height="40" title="SwiftUI"/>
+</details>
 
   <details open>
     <summary><b>Backend Development</b></summary>
