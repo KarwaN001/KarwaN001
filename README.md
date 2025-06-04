@@ -48,8 +48,10 @@ I'm a passionate Software Engineer specializing in Mobile App Development with a
   <details open>
     <summary><b>Development Tools</b></summary>
     <br/>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="40"/>
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" height="40"/>
+    <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-96x96_2x.png" height="40" title="Xcode"/>
   </details>
+
 </div>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Connect with me:
