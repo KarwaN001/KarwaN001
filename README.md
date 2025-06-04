@@ -14,7 +14,7 @@ I'm a passionate Software Engineer specializing in Mobile App Development with a
 
 - 🌱 Currently learning: modern iOS development (**Swift** & **SwiftUI**)
 - 💬 Ask me about: **React Native**, **Mobile Development**, **clean UI patterns**
-- ⚡ Fun fact: When I'm not coding, you can find me exploring new tech trends!
+- ⚡ Fun fact: When I'm not coding, you can find me exploring new tech trends, or play a chess😅.
 </div>
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack
