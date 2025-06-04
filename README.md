@@ -30,13 +30,13 @@ I'm a passionate Software Engineer specializing in Mobile App Development with a
   <details open>
     <summary><b>Backend Development</b></summary>
     <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,cs,dotnet" height="40"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,php,laravel" height="40"/>
   </details>
 
   <details open>
     <summary><b>Database & Cloud</b></summary>
     <br/>
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="40"/>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase" height="40"/>
   </details>
 
   <details open>
