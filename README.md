@@ -14,6 +14,9 @@
       <img src="https://user-badge.committers.top/iraq_private/KarwaN001.svg" alt="Committers.top badge"/>
     </a>
   </p>
+
+ <img src="https://komarev.com/ghpvc/?username=KarwaN001&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  
 </div>
 
 
@@ -96,8 +99,6 @@ I'm a passionate Software Engineer specializing in Mobile App Development with a
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KarwaN001&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
